@@ -1,2 +1,3 @@
 # HEALTH_CVD_PREDICTION-ANALYSIS
 🐍 Python EDA Project 📊  Explore and analyze data with this Python EDA project. Utilizes Pandas, Matplotlib, and Seaborn for data cleaning, visualization, and insights. Perfect for learning and showcasing exploratory data analysis skills.  🔍 Features: - Data Cleaning and Preprocessing - Descriptive Statistics - Data Visualization using SEABORN.
+Cardiovascular diseases are the leading cause of death globally. To identify the causes and to develop a system to predict heart attack in an effective manner is necessary. The presented data has all information about all the relevant factors that might have an impact on heart health. The data needs to be explained in detail for any further analysis.
